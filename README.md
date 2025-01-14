@@ -1,6 +1,6 @@
-# myapp
+# Aplicativo Layout
 
-A new Flutter project.
+Sistema desenvolvido por Eduarda da Motta para o curso Talento tech.
 
 ## Getting Started
 
